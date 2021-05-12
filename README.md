@@ -23,11 +23,11 @@ Before You Begin
 
 ### Instructions
 
-Data Modeling
+#### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. 
 ![image](https://user-images.githubusercontent.com/61367502/117902005-2a533e80-b292-11eb-89ca-6a826bbde347.png)
 
-Data Engineering
+####Data Engineering
 
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -46,27 +46,35 @@ Once you have a complete database, do the following:
 
 
 * List the following details of each employee: employee number, last name, first name, sex, and salary.
+![image](https://user-images.githubusercontent.com/61367502/117907344-41972980-b29c-11eb-9199-b864e2bb5894.png)
 
 
 * List first name, last name, and hire date for employees who were hired in 1986.
+![image](https://user-images.githubusercontent.com/61367502/117907369-4d82eb80-b29c-11eb-9ff8-dfa30713cf89.png)
 
 
 * List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+![image](https://user-images.githubusercontent.com/61367502/117907386-5378cc80-b29c-11eb-882d-85c9099940e6.png)
 
 
 * List the department of each employee with the following information: employee number, last name, first name, and department name.
+![image](https://user-images.githubusercontent.com/61367502/117907395-5b387100-b29c-11eb-9063-04a2e0b95361.png)
 
 
 * List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+![image](https://user-images.githubusercontent.com/61367502/117907406-625f7f00-b29c-11eb-9372-c23b69362abf.png)
 
 
 * List all employees in the Sales department, including their employee number, last name, first name, and department name.
+![image](https://user-images.githubusercontent.com/61367502/117907419-68556000-b29c-11eb-9fc5-956699324edc.png)
 
 
 * List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![image](https://user-images.githubusercontent.com/61367502/117907432-6e4b4100-b29c-11eb-956c-ba72e68855cf.png)
 
 
 * In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+![image](https://user-images.githubusercontent.com/61367502/117907451-75724f00-b29c-11eb-88e3-2a3bf41b2378.png)
 
 
 
