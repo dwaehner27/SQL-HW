@@ -1,7 +1,7 @@
 # SQL-HW
 Data Engineering/Modeling and Data Analysis
 
-## SQL Homework - Employee Database: A Mystery in Two Parts
+#### SQL Homework - Employee Database: A Mystery in Two Parts
 
 
 ### Background
@@ -27,7 +27,7 @@ Before You Begin
 Inspect the CSVs and sketch out an ERD of the tables. 
 ![image](https://user-images.githubusercontent.com/61367502/117902005-2a533e80-b292-11eb-89ca-6a826bbde347.png)
 
-####Data Engineering
+#### Data Engineering
 
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
