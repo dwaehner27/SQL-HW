@@ -24,7 +24,8 @@ Before You Begin
 ### Instructions
 
 Data Modeling
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+Inspect the CSVs and sketch out an ERD of the tables. 
+![image](https://user-images.githubusercontent.com/61367502/117902005-2a533e80-b292-11eb-89ca-6a826bbde347.png)
 
 Data Engineering
 
@@ -96,29 +97,6 @@ Create a bar chart of average salary by title.
 
 
 
-Epilogue
-Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
-
-### Submission
 
 
-Create an image file of your ERD.
-
-
-Create a .sql file of your table schemata.
-
-
-Create a .sql file of your queries.
-
-
-(Optional) Create a Jupyter Notebook of the bonus analysis.
-
-
-Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
-
-Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-
-![image](https://user-images.githubusercontent.com/61367502/117902005-2a533e80-b292-11eb-89ca-6a826bbde347.png)
 
