@@ -85,9 +85,11 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
 
 Create a histogram to visualize the most common salary ranges for employees.
+![image](https://user-images.githubusercontent.com/61367502/117908016-6344e080-b29d-11eb-95ed-cefea2b5e2d1.png)
 
 
 Create a bar chart of average salary by title.
+![image](https://user-images.githubusercontent.com/61367502/117908040-6c35b200-b29d-11eb-97cf-eef55d6d3930.png)
 
 
 
