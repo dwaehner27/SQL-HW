@@ -120,6 +120,5 @@ Create and upload a repository with the above files to GitHub and post a link on
 Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 
+![image](https://user-images.githubusercontent.com/61367502/117902005-2a533e80-b292-11eb-89ca-6a826bbde347.png)
 
-Copyright
-Trilogy Education Services © 2019. All Rights Reserved.
